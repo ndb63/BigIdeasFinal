@@ -6,5 +6,5 @@ Team Name- Pirates
 
 
 
-Our repository is to find out the best neighborhood in pittsburgh based off various stats on schools in the area. 
+Our repository is to find out the best neighborhood in pittsburgh based off various stats on schools and parks in the area. 
 Canvas group number- 20
